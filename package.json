@@ -1,0 +1,23 @@
+{
+    "name": "fw_challenge",
+    "version": "1.0.0",
+    "description": "Fieldwire Coding Challenge 08/14/2020",
+    "main": "index.js",
+    "scripts": {
+        "webpack": "webpack --watch --mode=development",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "Kevin Ly",
+    "license": "ISC",
+    "dependencies": {
+        "@babel/core": "^7.11.1",
+        "@babel/preset-env": "^7.11.0",
+        "@webpack-cli/init": "^0.3.0",
+        "axios": "^0.19.2",
+        "babel-loader": "^8.1.0"
+    },
+    "devDependencies": {
+        "webpack-cli": "^3.3.12"
+    }
+}

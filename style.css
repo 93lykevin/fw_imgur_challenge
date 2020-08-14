@@ -1,0 +1,10 @@
+#results-container {
+    padding-top: 1rem;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.card {
+    width: 17rem;
+}
